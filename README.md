@@ -31,7 +31,7 @@ Port used to connect to database. Default `"3306"`.
 ## Example usage
 
 ```
-uses: calxus/mysql-deploy-action@v1
+uses: appsroxcom/mysql-deploy-action@v1
 with:
   DATABASE_HOST: 'db.host.io'
   DATABASE_PORT: '3306'
