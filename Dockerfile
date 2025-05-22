@@ -1,6 +1,4 @@
-FROM gtadam89/mysql-client
-
-MAINTAINER gtadam@protonmail.ch
+FROM arey/mysql-client
 
 COPY entrypoint.sh /entrypoint.sh
 
